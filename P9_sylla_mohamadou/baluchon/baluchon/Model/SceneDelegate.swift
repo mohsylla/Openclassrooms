@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  baluchon
+//  Baluchon
 //
 //  Created by le don on 14/12/2021.
 //

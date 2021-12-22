@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		503C61172768808600659F57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503C61162768808600659F57 /* AppDelegate.swift */; };
-		503C61192768808600659F57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503C61182768808600659F57 /* SceneDelegate.swift */; };
-		503C611B2768808600659F57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503C611A2768808600659F57 /* ViewController.swift */; };
-		503C611E2768808600659F57 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503C611C2768808600659F57 /* Main.storyboard */; };
-		503C61202768808900659F57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503C611F2768808900659F57 /* Assets.xcassets */; };
-		503C61232768808900659F57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503C61212768808900659F57 /* LaunchScreen.storyboard */; };
+		503C61402768978200659F57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503C613F2768978200659F57 /* AppDelegate.swift */; };
+		503C61422768978200659F57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503C61412768978200659F57 /* SceneDelegate.swift */; };
+		503C61442768978200659F57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503C61432768978200659F57 /* ViewController.swift */; };
+		503C61472768978200659F57 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503C61452768978200659F57 /* Main.storyboard */; };
+		503C61492768978400659F57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 503C61482768978400659F57 /* Assets.xcassets */; };
+		503C614C2768978400659F57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 503C614A2768978400659F57 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		503C61132768808600659F57 /* baluchon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = baluchon.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		503C61162768808600659F57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		503C61182768808600659F57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		503C611A2768808600659F57 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		503C611D2768808600659F57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		503C611F2768808900659F57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		503C61222768808900659F57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		503C61242768808900659F57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		503C613C2768978200659F57 /* Baluchon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Baluchon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		503C613F2768978200659F57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		503C61412768978200659F57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		503C61432768978200659F57 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		503C61462768978200659F57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		503C61482768978400659F57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		503C614B2768978400659F57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		503C614D2768978400659F57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		503C61102768808600659F57 /* Frameworks */ = {
+		503C61392768978200659F57 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		503C610A2768808600659F57 = {
+		503C61332768978200659F57 = {
 			isa = PBXGroup;
 			children = (
-				503C61152768808600659F57 /* baluchon */,
-				503C61142768808600659F57 /* Products */,
+				503C613E2768978200659F57 /* Baluchon */,
+				503C613D2768978200659F57 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		503C61142768808600659F57 /* Products */ = {
+		503C613D2768978200659F57 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				503C61132768808600659F57 /* baluchon.app */,
+				503C613C2768978200659F57 /* Baluchon.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		503C61152768808600659F57 /* baluchon */ = {
+		503C613E2768978200659F57 /* Baluchon */ = {
 			isa = PBXGroup;
 			children = (
-				503C61162768808600659F57 /* AppDelegate.swift */,
-				503C61182768808600659F57 /* SceneDelegate.swift */,
-				503C611A2768808600659F57 /* ViewController.swift */,
-				503C611C2768808600659F57 /* Main.storyboard */,
-				503C611F2768808900659F57 /* Assets.xcassets */,
-				503C61212768808900659F57 /* LaunchScreen.storyboard */,
-				503C61242768808900659F57 /* Info.plist */,
+				503C613F2768978200659F57 /* AppDelegate.swift */,
+				503C61412768978200659F57 /* SceneDelegate.swift */,
+				503C61432768978200659F57 /* ViewController.swift */,
+				503C61452768978200659F57 /* Main.storyboard */,
+				503C61482768978400659F57 /* Assets.xcassets */,
+				503C614A2768978400659F57 /* LaunchScreen.storyboard */,
+				503C614D2768978400659F57 /* Info.plist */,
 			);
-			path = baluchon;
+			path = Baluchon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		503C61122768808600659F57 /* baluchon */ = {
+		503C613B2768978200659F57 /* Baluchon */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 503C61272768808900659F57 /* Build configuration list for PBXNativeTarget "baluchon" */;
+			buildConfigurationList = 503C61502768978400659F57 /* Build configuration list for PBXNativeTarget "Baluchon" */;
 			buildPhases = (
-				503C610F2768808600659F57 /* Sources */,
-				503C61102768808600659F57 /* Frameworks */,
-				503C61112768808600659F57 /* Resources */,
+				503C61382768978200659F57 /* Sources */,
+				503C61392768978200659F57 /* Frameworks */,
+				503C613A2768978200659F57 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = baluchon;
-			productName = baluchon;
-			productReference = 503C61132768808600659F57 /* baluchon.app */;
+			name = Baluchon;
+			productName = Baluchon;
+			productReference = 503C613C2768978200659F57 /* Baluchon.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		503C610B2768808600659F57 /* Project object */ = {
+		503C61342768978200659F57 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1310;
 				LastUpgradeCheck = 1310;
 				TargetAttributes = {
-					503C61122768808600659F57 = {
+					503C613B2768978200659F57 = {
 						CreatedOnToolsVersion = 13.1;
 					};
 				};
 			};
-			buildConfigurationList = 503C610E2768808600659F57 /* Build configuration list for PBXProject "baluchon" */;
+			buildConfigurationList = 503C61372768978200659F57 /* Build configuration list for PBXProject "Baluchon" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 503C610A2768808600659F57;
-			productRefGroup = 503C61142768808600659F57 /* Products */;
+			mainGroup = 503C61332768978200659F57;
+			productRefGroup = 503C613D2768978200659F57 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				503C61122768808600659F57 /* baluchon */,
+				503C613B2768978200659F57 /* Baluchon */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		503C61112768808600659F57 /* Resources */ = {
+		503C613A2768978200659F57 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				503C61232768808900659F57 /* LaunchScreen.storyboard in Resources */,
-				503C61202768808900659F57 /* Assets.xcassets in Resources */,
-				503C611E2768808600659F57 /* Main.storyboard in Resources */,
+				503C614C2768978400659F57 /* LaunchScreen.storyboard in Resources */,
+				503C61492768978400659F57 /* Assets.xcassets in Resources */,
+				503C61472768978200659F57 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		503C610F2768808600659F57 /* Sources */ = {
+		503C61382768978200659F57 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				503C611B2768808600659F57 /* ViewController.swift in Sources */,
-				503C61172768808600659F57 /* AppDelegate.swift in Sources */,
-				503C61192768808600659F57 /* SceneDelegate.swift in Sources */,
+				503C61442768978200659F57 /* ViewController.swift in Sources */,
+				503C61402768978200659F57 /* AppDelegate.swift in Sources */,
+				503C61422768978200659F57 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		503C611C2768808600659F57 /* Main.storyboard */ = {
+		503C61452768978200659F57 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				503C611D2768808600659F57 /* Base */,
+				503C61462768978200659F57 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		503C61212768808900659F57 /* LaunchScreen.storyboard */ = {
+		503C614A2768978400659F57 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				503C61222768808900659F57 /* Base */,
+				503C614B2768978400659F57 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		503C61252768808900659F57 /* Debug */ = {
+		503C614E2768978400659F57 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -227,7 +227,7 @@
 			};
 			name = Debug;
 		};
-		503C61262768808900659F57 /* Release */ = {
+		503C614F2768978400659F57 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -282,7 +282,7 @@
 			};
 			name = Release;
 		};
-		503C61282768808900659F57 /* Debug */ = {
+		503C61512768978400659F57 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -290,7 +290,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = baluchon/Info.plist;
+				INFOPLIST_FILE = Baluchon/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -301,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mohsylla.baluchon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mohsylla.Baluchon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -309,7 +309,7 @@
 			};
 			name = Debug;
 		};
-		503C61292768808900659F57 /* Release */ = {
+		503C61522768978400659F57 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -317,7 +317,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = baluchon/Info.plist;
+				INFOPLIST_FILE = Baluchon/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.mohsylla.baluchon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mohsylla.Baluchon;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -339,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		503C610E2768808600659F57 /* Build configuration list for PBXProject "baluchon" */ = {
+		503C61372768978200659F57 /* Build configuration list for PBXProject "Baluchon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				503C61252768808900659F57 /* Debug */,
-				503C61262768808900659F57 /* Release */,
+				503C614E2768978400659F57 /* Debug */,
+				503C614F2768978400659F57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		503C61272768808900659F57 /* Build configuration list for PBXNativeTarget "baluchon" */ = {
+		503C61502768978400659F57 /* Build configuration list for PBXNativeTarget "Baluchon" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				503C61282768808900659F57 /* Debug */,
-				503C61292768808900659F57 /* Release */,
+				503C61512768978400659F57 /* Debug */,
+				503C61522768978400659F57 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 503C610B2768808600659F57 /* Project object */;
+	rootObject = 503C61342768978200659F57 /* Project object */;
 }
