@@ -2,12 +2,13 @@
 //  AppDelegate.swift
 //  Baluchon
 //
-//  Created by le don on 14/12/2021.
+//  Created by Sylla on 01/01/2022.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
+@available(iOS 13.0, *)
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 

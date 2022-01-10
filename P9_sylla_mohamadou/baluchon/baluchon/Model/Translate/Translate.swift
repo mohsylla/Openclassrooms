@@ -6,3 +6,16 @@
 //
 
 import Foundation
+// Struture to manage data
+
+struct Translate: Decodable {
+    var data: TranslationData
+}
+
+struct TranslationData: Decodable {
+    var translations: [TranslationText]
+}
+
+struct TranslationText: Decodable {
+    var translatedText: String
+}
