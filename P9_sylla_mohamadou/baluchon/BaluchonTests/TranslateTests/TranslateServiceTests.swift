@@ -2,8 +2,7 @@
 //  TranslateServiceTests.swift
 //  Baluchon_newTests
 //
-//  Created by Mélanie Obringer on 01/10/2019.
-//  Copyright © 2019 Mélanie Obringer. All rights reserved.
+//  Created by Sylla on 27/12/2021.
 //
 
 import XCTest
