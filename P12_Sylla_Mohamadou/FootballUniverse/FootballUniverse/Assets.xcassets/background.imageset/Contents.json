@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "arcadevr-header-1-jpg_header-1815725.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "arcadevr-header-1-jpg_header-1815726.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "arcadevr-header-1-jpg_header-1815727.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
